@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true coppy of the petition of the Lord Major, aldermen, and the rest of the Common-Councell of London, presented to both Houses of Parliament, March 18. 1641. To vindicate the honour of the city against a false, scandalous, and seditious petition, printed, and pretended to be exhibited to the Parliament in February last, as The petition of the citizens of London, against the present disposall of the militia of that city, made by the Parliament. And to assure the Parliament, and the whole kingdome; that the said city is very glad of, and thankfull for the present ordinance touching that matter, and will readily obey it. Together with the severall answers of both Houses of Parliament to the aforesaid petition. Ordered to be printed and published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95026</idno>
+            <idno type="STC">Wing T2659</idno>
+            <idno type="STC">Thomason E140_18</idno>
+            <idno type="STC">ESTC R15776</idno>
+            <idno type="EEBO-CITATION">99859918</idno>
+            <idno type="PROQUEST">99859918</idno>
+            <idno type="VID">112020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95026)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112020)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E140[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true coppy of the petition of the Lord Major, aldermen, and the rest of the Common-Councell of London, presented to both Houses of Parliament, March 18. 1641. To vindicate the honour of the city against a false, scandalous, and seditious petition, printed, and pretended to be exhibited to the Parliament in February last, as The petition of the citizens of London, against the present disposall of the militia of that city, made by the Parliament. And to assure the Parliament, and the whole kingdome; that the said city is very glad of, and thankfull for the present ordinance touching that matter, and will readily obey it. Together with the severall answers of both Houses of Parliament to the aforesaid petition. Ordered to be printed and published.</title>
+                  <author>Gurney, Richard, Sir, 1577-1647.</author>
+                  <author>City of London (England). Court of Common Council. aut</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Frank,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "an answer to Binions Petition".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  History --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112020:1" rendition="simple:additions"/>
+            <p>A true Coppy of the PETITION of the Lord Major, Alder<g ref="char:EOLhyphen"/>men, and the reſt of the Common-Councell of <hi>LONDON,</hi> preſented to both Houſes of PARLIAMENT, <hi>March</hi> 18. 1641.</p>
+            <p>To vindicate the Honour of the City againſt a Falſe, Scandalous, and Seditious Petition, printed, and pretended to be exhibited to the Parliament in <hi>February</hi> laſt, as</p>
+            <p>The Petition of the Citizens of <hi>London,</hi> againſt the preſent diſpoſall of the <hi>Militia</hi> of that City, made by the Parliament.</p>
+            <p>And to aſſure the Parliament, and the whole Kingdome; that the ſaid City is very glad of, and thankfull for the preſent <hi>Ordinance</hi> touching that matter, and will readily obey it.</p>
+            <p>Together with the ſeverall Anſwers of both Houſes of Parliament to the aforeſaid Petition.</p>
+            <p>Ordered to be Printed and publiſhed.</p>
+            <figure>
+               <figDesc>blazon of the City of London</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Frank.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:112020:2"/>
+            <pb facs="tcp:112020:2"/>
+            <head>To the Honourable, the Knights, Citizens, and Burgeſſes of the Commons Houſe in Parliament.</head>
+            <head type="sub">The humble Petition of the Major, Aldermen and the reſt of the Common councell of the City of <hi>London</hi>:</head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the Petitioners doe much re<g ref="char:EOLhyphen"/>joyce in the happy Concurrence of both Houſes of Parliament, as in o<g ref="char:EOLhyphen"/>ther things, ſo eſpecially, in that moſt neceſſary <hi>Ordinance</hi> touching the <hi>Militia</hi> of this Kingdome, and Dominion of <hi>Wales</hi>; Whereunto the Petitioners doe moſt humbly and cheerefully ſubmit, for the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fety of His Majeſty, the Parliament, and Kingdome: For the ordering whereof, many preſſing Petitions from moſt parts of the Kingdom have beene exhibited, in this time of imminent dangers, proceeding from the bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udy Councells of Papiſts and o<g ref="char:EOLhyphen"/>thers, ill affected to the honour, peace and proſperity of our moſt gracious King, and his Kingdomes.</p>
+            <p>And the Petition<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs doe likewiſe humbly returne all poſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le thanks to this Honourable Houſe, for the great honour, and high favour vouchſafed, in giving them leave to nominate the perſons to whom the <hi>Militia</hi> of this City ſhould be committed; And for accepting and approving of the Nomination and returne made to this Honourable Houſe, by the Petitioners on that behalfe.</p>
+            <p>But this their joy is much diſturbed and interrupted by an untrue, unadviſed, and dangerous Petition, Intituled, <hi>The Petition of the Citizens of London, whoſe names are under written,</hi> directed and dilivered in <hi>February</hi> laſt, <hi>To the</hi>
+               <pb facs="tcp:112020:3"/>
+Lords and Commons aſſembled in Parliament; And ſince publiſhed in print, with this title, <hi>The humble Peti<g ref="char:EOLhyphen"/>tion of the Citizens of London</hi>: Thereby to publiſh it thorow the Kingdome, as the Petition of al the Citizens: Wherein is ſet forth (as appeareth by one of thoſe printed coppies annexed) that the ordering of the Armes of Lon<g ref="char:EOLhyphen"/>don hath, time out of mind, beene annexed to the Majo<g ref="char:EOLhyphen"/>raltie of the ſaid Citie; That the conferring thereof up<g ref="char:EOLhyphen"/>on others would reflect upon the government and cu<g ref="char:EOLhyphen"/>ſtomes of this Citie, granted by the great Charter of Eng<g ref="char:EOLhyphen"/>land, and confirmed by, divers Acts and Charters ſince that tim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; and wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch everie Free-man of the ſaid Citie is by the oath of his freedome bound to maintaine to the utmoſt of his power; And that ſuch alteration in the an<g ref="char:EOLhyphen"/>cient government might breed great diſtractions and in<g ref="char:EOLhyphen"/>conveni<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncies: or to this effect.</p>
+            <p>Nor this alone, but the Petitioners are yet more deeply wounded and grieved, by the preſumptuous boldneſſe of the publiſhers of the ſaid Petition in print, by joyning therewith his Majeſties Anſwer and denyall, intituled his <hi>Majeſties Meſſage to both Houſes of Parliament,</hi> February 28. 1641. Which Anſwer (as the Petitioners humbly conceive was grounded upon the ſaid Petition, and miſ<g ref="char:EOLhyphen"/>information of ſome perſons, ill affected to His Majeſty and to the City, who have thereby, and otherwiſe, often endeavoured to make diviſions betwixt the King and the Parliament; betwixt the Parliament and the City; and betwixt the Citizens themſelves, to the intollerable abuſe of his ſacred Majeſty, and of all his loyall Subjects.</p>
+            <p>And they verily beleeve that this bold publiſhing in print, of the ſaid Petition, and in his Majeſties meſſage (which ſhortly after followed the exhibiting of the ſaid Petition) together in one printed paper, was purpoſely done, wickedly and ſeditiouſly, to make diviſions as afore<g ref="char:EOLhyphen"/>ſaid to beget an opinion throughout the Kingdome, that the City of <hi>London</hi> doth not intend to conforme unto, but complaine of, and oppoſe the aforeſaid Ordinance, and to make the ſaid petition a deſperate preſident to the reſt of the Kingdome, to do the like; Therby to hinder the cheer<g ref="char:EOLhyphen"/>full,
+<pb facs="tcp:112020:3"/>
+needfull, lawfull, and unanimous Concurrence of the Kingdome, in yeelding due, full, and timely obedience to the ſaid Ordinance.</p>
+            <p>
+               <hi>They doe therefore humbly pray, that this Honourable Houſe will vouchſafe.</hi>
+               <list>
+                  <item>1. To beleeve, that neither this nor any other Petition of the like kinde ever came from the Petitioners, nor was fra<g ref="char:EOLhyphen"/>med, contrived or approved of by them. And that they doe wholly and with deteſtation diſavow and diſclaime the ſame as an untrue, unadviſed, and dangerous Petition.</item>
+                  <item>2. To put a difference betweene the Authors, Contrivers, Promoters, Adviſers, Publiſhers and Printers of it, and ſuch as it ſhall appeare to this Honourable Houſe, were by ſubtilty drawne in unawares to ſubſcribe the ſame, without any ma<g ref="char:EOLhyphen"/>lignant intention, and ſhall clearly acknowledge their errour, and raſhneſſe therein; And that this latter ſort may have ſuch lawfull favour as may ſtand with the Honour and Iuſtice of the high Court of Parliament.</item>
+                  <item>Lastly, they doe humbly pray, that this Honourable Houſe will ſtill encreaſe their joy, by endeavouring to uphold and continue, by all good meanes that bleſſed concurrence of both Houſes of Parliament, in all your great affaires, and effectu<g ref="char:EOLhyphen"/>ally to proceed against all diſturbers and undermyners ther<g ref="char:EOLhyphen"/>of, and that ſhall endeavour to beget or cheriſh any miſunder<g ref="char:EOLhyphen"/>ſtanding, or to make diviſion betwixt the King and <hi>Parliment</hi> whom God and the Lawes of this Land have united in ſo neer a Relation.</item>
+               </list>
+            </p>
+            <p>And they ſhall ever be ready to asſiſt and ſtand by this H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nourabbe Houſe therein, with their lives and Eſtates to the utmoſt of their power, according to their late proteſtation.</p>
+            <closer>And ſhall inceſſantly pray, &amp;c.</closer>
+            <argument>
+               <p>Another of the ſame Petitions, (with change only of the title) was likewiſe preſented to the moſt Honourable Houſe of Peeres, the ſame day (<hi>March</hi> 18.) by divers Al<g ref="char:EOLhyphen"/>dermen, and other worthy Members of the Court of Com<g ref="char:EOLhyphen"/>mon Counſell aforeſaid.</p>
+            </argument>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112020:4"/>
+            <head>The Anſwer to the afore<g ref="char:EOLhyphen"/>ſaid Petition.</head>
+            <opener>
+               <dateline>
+                  <date>Die Veneris 18. Martij. 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Aldermen and Citizens that delivered the Petition this day to the Lords in Parlia<g ref="char:EOLhyphen"/>ment were called in, and the Lord Keeper told them by the direction of the Houſe, That their Lordſhips did give them thanks for their readineſſe and forwardneſſe in their Obedience to the ordnance of Parliament made by both Hou<g ref="char:EOLhyphen"/>ſes concerning the <hi>Militia,</hi> and further care of preventing any diſorders that might have happened by preferring or exhibi<g ref="char:EOLhyphen"/>ting a falſe and ſcandalous Petition in the name of the City, whereas it was not ſo, That their Lordſhips have ordered, that this Petition now preſented ſhall be printed and publiſhed, And for the ſcandalous Petition, the Lords have ordered the ſame ſhall be burnt by the hand of the Common Hangman: And that their Lordſhips doe reſolve to make a difference betweene thoſe that were the Authors and Contrivers of that ſcandalous Petition and thoſe that were ſeduced and ignorantly drawne in to ſubſcribe to that Petition.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112020:4"/>
+            <head>The Anſwer of the Houſe of Com<g ref="char:EOLhyphen"/>mons to the aforeſaid Petition.</head>
+            <opener>
+               <dateline>
+                  <date>Die Veneris 18. Mertij 1641.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He humble Petition of the Major, Aldermen, and the reſt of the Common Counſell of the City of <hi>London</hi> was this day read in the Houſe of Commons, and ordered to be entred in the Iour<g ref="char:EOLhyphen"/>nalls of the ſaid Houſe, and to bee printed. The Petitioners were called in, and Maſter <hi>Speaker</hi> told them that the Houſe had read their Petition, and received it with a great deale of contentment and approbation, and it being of that great conſequence, and ſo full of expreſſion of zeale and affecti<g ref="char:EOLhyphen"/>on to his Majeſty, and the Kingdome; and in particular, that he was of reſpect to this Houſe, commanded to returne them hearty thankes in the name of the whole Houſe: And wiſhed, that he had words ſufficient to expreſſe it.</p>
+            <p>And for thoſe of the City of <hi>London,</hi> that ſubſcribed that dangerous Petition complained of by the Petitioners, and are deſirous to acknowledge their errour. (Provided they were none of the contrivers of that Petition: nor had a malignant ſpirit in the advancing and exhibiting thereof) This Houſe according to the deſires of the Petitioners, is willing to ſhew favour unto them. And as the Petitioners doe expreſſe their care of the King and Kingdome, and of this Houſe in parti<g ref="char:EOLhyphen"/>cular; ſo this Houſe will bee alwaies ready to give their beſt endeavours to further thoſe things that may concerne the ho<g ref="char:EOLhyphen"/>nour and ſafety of the King and Kingdome, and in particular of the good and ſafety of the City of <hi>London.</hi>
+            </p>
+            <closer>
+               <signed>H. Elſing Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
